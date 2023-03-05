@@ -1,0 +1,15 @@
+.form-group span{
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    font-size: 20px;
+} 
+.form-group{
+    position: relative;
+}
+.d-none{
+    display: none;
+}
+.d-active{
+    display: active;
+}
